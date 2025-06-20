@@ -48,6 +48,6 @@ I'm an aspiring **Java Full Stack Developer** passionate about building efficien
 
 ---
 
-Thanks for stopping by! ⭐
+Appreciate your time and interest ⭐
 
 
