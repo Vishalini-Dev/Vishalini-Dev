@@ -18,14 +18,13 @@ I'm an aspiring **Java Full Stack Developer** passionate about building efficien
 
 - 🚍 **Bus Ticket Booking System** – Full-stack project with Spring Boot, MySQL, HTML, CSS, and JS
 - 🏥 **Hospital Management System** – Spring Boot app managing patients, appointments, and medications
-- 🍎 **Grocery Store Website** – MERN stack e-commerce platform
-- 🎥 **YouTube Clone** – Frontend project using HTML & CSS
+- 🎥 **Weather App** – Frontend project using HTML, CSS & JS
 
 ---
 
 ## 📚 Certifications & Learning
 
-- ✅ Java Full Stack Development Course
+- ✅ Java Full Stack Development Course - Guvi
 - ✅ Git Version Control – Guvi
 - ✅ UI/UX Design Internship
 - ✅ Internship at 8Queens Startup, Chennai
